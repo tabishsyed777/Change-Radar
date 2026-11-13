@@ -1,6 +1,6 @@
 # Change Radar
 
-**Understand the blast radius before work begins.** Change Radar imports a System Atlas model, follows dependency links in the affected direction, and exports a scoped impact report.
+**A change-impact analysis tool that follows modeled dependencies to show which requirements, components, and interfaces may be affected.** Import a System Atlas model and turn a proposed change into a scoped, portable impact report.
 
 ## What it does
 
